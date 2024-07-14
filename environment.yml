@@ -92,7 +92,7 @@ dependencies:
   - gdal=3.6.2
   - geopandas=0.14.2
   - geopandas-base=0.14.2
-  - geos=3.9.1
+  - geos
   - geotiff=1.7.0
   - gettext=0.21.0
   - gflags=2.2.2
@@ -177,7 +177,7 @@ dependencies:
   - libev=4.33
   - libevent=2.1.12
   - libffi=3.4.4
-  - libgdal=3.6.2
+  - libgdal
   - libgfortran
   - libgfortran5=13.2.0
   - libglib=2.78.4
@@ -260,7 +260,7 @@ dependencies:
   - ply=3.11
   - poppler=22.12.0
   - poppler-data=0.4.11
-  - proj=9.3.1
+  - proj
   - prometheus_client=0.14.1
   - prompt-toolkit=3.0.43
   - prompt_toolkit=3.0.43
@@ -330,7 +330,7 @@ dependencies:
   - tensorboard-plugin-wit=1.8.1
   - terminado=0.17.1
   - threadpoolctl=3.5.0
-  - tiledb=2.3.3
+  - tiledb
   - tinycss2=1.2.1
   - tk=8.6.14
   - tokenizers=0.15.1
