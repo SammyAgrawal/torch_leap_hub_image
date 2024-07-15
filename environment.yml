@@ -1,9 +1,9 @@
-name: torch_hub_env_test
+name: torch_hub_env
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - abseil-cpp=20230802.0
+  - abseil-cpp
   - accelerate=0.32.1
   - aiohttp=3.9.5
   - aiosignal=1.2.0
@@ -233,4 +233,3 @@ dependencies:
   - pip:
       - diffusers==0.29.2
       - huggingface-hub==0.23.4
-prefix: /Users/samart/mambaforge/envs/torch_hub_env_test
