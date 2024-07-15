@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+      - climsim_hpc_image
+  workflow_dispatch:
   pull_request:
     branches:
       - main
