@@ -196,6 +196,7 @@ dependencies:
   - rfc3986-validator=0.1.1
   - rpds-py=0.10.6
   - rsa=4.7.2
+  - tensorboard
   - safetensors=0.4.2
   - send2trash=1.8.2
   - setuptools=69.5.1
@@ -240,3 +241,4 @@ dependencies:
   - pip:
       - diffusers==0.29.2
       - huggingface-hub==0.23.4
+      - tb-nightly 
